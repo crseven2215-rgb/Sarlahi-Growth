@@ -1,0 +1,6 @@
+{
+  "name": "Sarlahi Growth Connect",
+  "description": "All-in-one digital platform for students and youth from Sarlahi, Nepal to study, work, find rooms, discover scholarships, build careers, and connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
